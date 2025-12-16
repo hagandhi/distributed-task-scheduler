@@ -1,4 +1,4 @@
-# cd (FastAPI + SQLAlchemy)
+# Distributed Task Scheduler (FastAPI + SQLAlchemy)
 
 This project implements the **Distributed Task Scheduler** assessment requirements:
 - Create jobs with **payload** and **priority (1–10)**
@@ -36,7 +36,7 @@ Swagger/OpenAPI: **`/docs`**
 
 ---
 
-## Architecture diagram (Excalidraw-style)
+## diagram 
 
 ```
                          ┌──────────────────────────────────────────┐
